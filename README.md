@@ -14,7 +14,7 @@ Setups to Use it :-
 
 1) Download RemoPc.apk in android phone and install the App.
 
-2) Download PClistener.rar file and extract at any location.
+2) Download PCLIST.rar file and extract at any location.
 
 3) Run or double click on PClistener.exe file in the folder.
 
