@@ -1,7 +1,7 @@
 Welcome To Remo PC
 
 This apllication allows you to connect to your windows machine from anywhere inside a network.
-You can send commands to the cmd and stream them Real time into your hanheld devices.
+You can send commands to the cmd and stream them Real time into your handheld devices.
 Can control all like volumes brightness of your machine from your Hand held Device. 
 
 Here there is a APK file install it to your phone and a executable file run it on your machine.
