@@ -31,6 +31,8 @@ Setups to Use it :-
     👈 this Line under Ethernet adapter Ethernet Heading
 
 7) Copy the ip address 192.168.x.x ( x maybe any number in your pc) into androids ip input field
-8) Default Username : hi   password: hi if you need a custom made pls contact me !  
-9) REMEMBER THIS VERSION ONLY SUPPORTS INSIDE THE SAME NETWORK SO PLEASE BE IN SAME NETWORK
-10) DONE Enjoi !
+8) Default Username : hi   password: hi 
+   
+   If you need a custom made pls contact me !  
+10) REMEMBER THIS VERSION ONLY SUPPORTS INSIDE THE SAME NETWORK SO PLEASE BE IN SAME NETWORK
+11) DONE Enjoi !
