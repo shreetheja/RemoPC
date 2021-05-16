@@ -31,7 +31,7 @@ Setups to Use it :-
     
 6) If you are connected on ethernet cable then look for 
     
-    IPv4 Address. . . . . . . . . . . : 192.168.1.4
+    IPv4 Address. . . . . . . . . . . : 192.168.x.x
     👈 this Line under Ethernet adapter Ethernet Heading
 
 7) Copy the ip address 192.168.x.x ( x maybe any number in your pc) into androids ip input field
