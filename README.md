@@ -4,10 +4,14 @@ This apllication allows you to connect to your windows machine from anywhere ins
 You can send commands to the cmd and stream them Real time into your handheld devices.
 Can control all like volumes brightness of your machine from your Hand held Device. 
 
-Here there is a APK file install it to your phone and a executable file run it on your machine.
+Here there are two files
+
+APK file install it to your phone and a 
+
+executable file run it on your machine.
 
 The remoPC only supports for interconnection of same network in this version so note down your private ip in your machine
-and input it to the terminal app and android version shud also be at same network and submit it will connect.
+and input it to the terminal app and android version should also be at same network and submit it will connect.
 It will support multiple Commands at a time so Have FUN!;
 
 Setups to Use it :-
